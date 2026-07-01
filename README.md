@@ -44,8 +44,6 @@ Dashboard interaktif dibangun di Power BI dengan 3 halaman: **Executive Overview
 
 📂 File dashboard: [`dashboard/RFM_Customer_Segmentation.pbix`](dashboard/RFM_Customer_Segmentation.pbix)
 
-> *Catatan: ganti placeholder gambar di atas dengan screenshot dashboard asli sebelum publish ke GitHub.*
-
 ---
 
 ## 📌 Ringkasan Eksekutif
