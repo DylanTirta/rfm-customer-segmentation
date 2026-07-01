@@ -1,4 +1,5 @@
 <div align="center">
+
 # 📊 RFM Customer Segmentation Analysis
 ### Arpand Global E-Commerce Dataset
 
@@ -32,10 +33,14 @@
 
 Dashboard interaktif dibangun di Power BI dengan 3 halaman: **Executive Overview**, **RFM Deep Dive**, dan **Geographic View** — lengkap dengan 9 DAX measures dan filter yang tersinkron di seluruh halaman.
 
+<div align="center">
+    
 | Executive Overview | RFM Deep Dive |
 |---|---|
 | ![Executive Overview](assets/dashboard_overview.png) | ![RFM Deep Dive](assets/dashboard_deepdive.png) |
 | KPI utama, distribusi segmen, revenue per segmen | Scatter plot RFM, treemap, heatmap R×F score |
+
+</div>
 
 📂 File dashboard: [`dashboard/RFM_Customer_Segmentation.pbix`](dashboard/RFM_Customer_Segmentation.pbix)
 
@@ -182,6 +187,6 @@ rfm-customer-segmentation/
 <div align="center">
 
 **Dylan Tirta Adhitama** · Fresh Graduate Management · Aspiring Data/Marketing Analyst
-📧 dylantirtaadhitama@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/dylantirtaadhitama) · 💻 [GitHub](https://github.com/DylanTirta)
+📧 dylantirtaadhitama@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/username) · 💻 [GitHub](https://github.com/username)
 
 </div>
