@@ -35,10 +35,10 @@ Dashboard interaktif dibangun di Power BI dengan 3 halaman: **Executive Overview
 
 <div align="center">
     
-| Executive Overview | RFM Deep Dive |
-|---|---|
-| ![Executive Overview](assets/dashboard_overview.png) | ![RFM Deep Dive](assets/dashboard_deepdive.png) |
-| KPI utama, distribusi segmen, revenue per segmen | Scatter plot RFM, treemap, heatmap R×F score |
+| Executive Overview | RFM Deep Dive | Geographic View |
+|---|---|---|
+| ![Executive Overview](assets/dashboard_overview.png) | ![RFM Deep Dive](assets/dashboard_deepdive.png) | ![Geographic View](assets/dashboard_geographic.png) |
+| KPI utama, distribusi segmen, revenue per segmen | Scatter plot RFM, treemap, heatmap R×F score | Peta sebaran pelanggan dan metrik performa pasar global |
 
 </div>
 
