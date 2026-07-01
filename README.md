@@ -177,7 +177,8 @@ rfm-customer-segmentation/
 │   └── RFM_Customer_Segmentation.pbix
 └── assets/
     ├── dashboard_overview.png
-    └── dashboard_deepdive.png
+    ├── dashboard_deepdive.png
+    └── dashboard_geographic.png
 ```
 
 ---
