@@ -121,8 +121,6 @@ flowchart LR
 4. **Python — Segmentasi.** Kombinasi skor R-F-M diterjemahkan ke 7 segmen pelanggan menggunakan logika pemasaran (bukan clustering otomatis), supaya hasilnya mudah diinterpretasikan oleh tim non-teknis.
 5. **Power BI — Visualisasi.** Hasil akhir diimpor ke Power BI: 3 halaman dashboard, 7 visualisasi (KPI Cards, Donut, Bar Chart, Scatter Plot, Treemap, Heatmap Matrix, Filled Map), dan 9 DAX Measures untuk kalkulasi dinamis sesuai filter.
 
-> 💡 **Keputusan metodologis kunci:** RFM scoring sengaja tidak dilakukan di SQL meski secara teknis bisa (`NTILE`). Validasi dilakukan dengan memastikan Champions memiliki Recency terkecil dan Lost Customers memiliki Recency terbesar — bukti bahwa logika kuantil bekerja sesuai harapan setelah data dibersihkan.
-
 ---
 
 ## 💡 Insight Utama & Rekomendasi Bisnis
